@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renatadeveloper
 - 👀 I’m interested in learning about software development
-- 🌱 I'll start learning from the beginning
-- 💞️ I’d like collaborate on NGO's of animals
+- 🌱 I'm a beginner
+- 💞️ I’d like to collaborate on NGO's of animals
 <!--- - 📫 How to reach me ...--->
 
 <!---
